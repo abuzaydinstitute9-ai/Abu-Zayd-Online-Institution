@@ -1,0 +1,4 @@
+cd azoi-platform
+git remote add origin https://github.com/abuzaydinstitute9-ai/Abu-Zayd-Online-Institution.git
+git branch -M main
+git push -u origin main --force
